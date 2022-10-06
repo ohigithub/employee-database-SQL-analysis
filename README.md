@@ -1,4 +1,4 @@
-# sql-challenge
+## Employee Database Analysis
 
 # Objective
 This challenge involved modeling and importing internal company employee data so that the mass of information could then be more quickly analyzed.
