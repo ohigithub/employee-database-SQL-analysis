@@ -4,6 +4,7 @@
 This challenge involved modeling and importing internal company employee data so that the mass of information could then be more quickly analyzed.
 
 # Data Modeling
+<img src="https://user-images.githubusercontent.com/102936852/194216141-2d8a408c-8be9-4912-b63a-efd7f196f888.png" width="799">
 Before analyzing the information, I created an ERD via quickdatabasediagrams.com to display what information was shared between the six CSV files provided.
 
 # Data Engineering
