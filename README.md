@@ -12,4 +12,4 @@ Before analyzing the information, I created an ERD via [quickdatabasediagrams.co
 Through PgAdmin I created a schema for the six CSV files, a table for each file specifying the primary and foreign keys, and I also imported the cooresponding data for each table. 
 
 ## Data Analysis & Findings
-To analyze the data, SQL quiries such as joining tables were used to answer questions. All findings can be found in the [EmployeesSQL file](https://github.com/ohigithub/sql-challenge/tree/main/EmployeeSQL).
+To analyze the data, SQL queries such as joining tables were used to answer questions. All findings can be found in the [EmployeesSQL file](https://github.com/ohigithub/sql-challenge/tree/main/EmployeeSQL).
